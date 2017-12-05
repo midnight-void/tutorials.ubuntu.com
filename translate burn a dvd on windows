@@ -1,0 +1,49 @@
+id: tutorial-burn-a-dvd-on-windows
+
+Summery: Windows上でUbuntuインストールDVDを焼く方法に関する説明。
+
+categories: デスクトップ
+
+tags: チュートリアル、インストール、バーン、DVD、ウィンドウ、ubuntu、デスクトップ
+
+difficulty: 2
+
+status: Published
+
+published: 2017-05-31
+
+author: Canonical Web Team webteam@canonical.com
+
+WindowsでDVDを焼く方法
+
+概要
+
+WindowsでUbuntuインストールDVDを作成するには、以下が必要です:
+
+• Ubuntu ISOファイル。 ここから あなたの好きなUbuntuをダウンロードしてください
+
+• 空のDVD
+
+Ubuntu ISOの信頼性を保証する
+
+Windows 7/8/10の手順
+
+時間：0:10
+
+• ダウンロードしたISOファイルを右クリックし、「ディスクイメージを作成」を選択します。
+
+• ディスクバーナー（ドライブ）を選択し、「書き込み」を選択します。 「書き込み後にディスクを確認する」にチェックを入れると、ISOイメージが正しく焼かれたことが確認されます
+
+Windows 95/98 / ME / 2000 / XP / Server 2003 / Vistaの手順
+
+時間：0:10
+
+• 無料でオープンソースの画像書き込みプログラムであるInfra Recorderをダウンロードしてインストールします。
+
+•ドライブに空のDVDを挿入し、自動実行ダイアログボックスが表示されたら「何もしない」または「キャンセル」を選択します。
+
+• Infra Recorderを開き、メイン画面の「Write Image」ボタンをクリックします。または、「アクション」メニューから「イメージを書き込む」を選択することもできます。
+
+• 書きたいUbuntu ISOイメージファイルを選択し、「開く」をクリックします。
+
+•ダイアログボックスで「OK」をクリックします。
